@@ -3,3 +3,4 @@ SafeLoader
 pandas
 DateTime
 matplotlib
+streamlit-authenticator
