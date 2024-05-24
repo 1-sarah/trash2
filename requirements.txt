@@ -1,8 +1,5 @@
 pyyaml
 SafeLoader
-streamlit-authenticator
-streamlit-vis-timeline
 pandas
 DateTime
-streamlit-timeline
 matplotlib
